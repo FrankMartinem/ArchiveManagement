@@ -1,0 +1,14 @@
+#mainwindow{
+	text-align:center;
+	background-color:#ffffff;
+	font-size: 100%;
+	font-family:"ΊΪΜε",Arial;
+}
+.stutable{
+	position:absolute;
+	font-size:150%;
+	font-family:"ΊΪΜε",Arial;
+	line-height:150%;
+	left:20%;
+	top:5%;
+}
